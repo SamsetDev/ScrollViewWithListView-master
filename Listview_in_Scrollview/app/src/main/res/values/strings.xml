@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listview_in_Scrollview</string>
+    <string name="name">Samset Blog</string>
+    <string name="name2">Use in ListviewScrollview</string>
+</resources>
